@@ -69,6 +69,7 @@ Requirements
     * If using Markdown, put `let vim_markdown_preview_github=0` in your `.vimrc` file
 * [xdotool](https://github.com/jordansissel/xdotool)
 * [Google Chrome](https://www.google.com/chrome/browser/) or [other browser](https://github.com/JamshedVesuna/vim-markdown-preview/wiki/Use-other-browser-to-preview-markdown#ubuntu-or-debian)
+* For example to install dependencies in Linux : `sudo apt install xdotool grip markdown -y`   
 
 It is recommended to use grip when rendering Unicode characters.
 
